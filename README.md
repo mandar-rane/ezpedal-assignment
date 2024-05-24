@@ -17,7 +17,8 @@ This project fetches the latest YouTube videos for a given search query and prov
 - MongoDB
 - YouTube API Key
 
-
+### DOCKER DESKTOP: (Server Log shows API Key switching due to exhausted quota)
+![Screenshot 2024-05-24 163042](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/9ce71466-2954-4bb5-8668-c4db292d3ef6)
 
 ### SORTED BY EARLIEST
 ![Screenshot 2024-05-24 162319](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/f5e3232d-7671-4cf9-8cbd-62fe5e25f09e)
