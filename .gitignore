@@ -1,8 +1,3 @@
 node_modules/
 .env
 secrets.txt
-<<<<<<< HEAD
-compose.yaml
-=======
-
->>>>>>> c26c971aaf50e613a1a5a57ca0da2d94890fc246
