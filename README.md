@@ -23,6 +23,9 @@ This project fetches the latest YouTube videos for a given search query and prov
 ### Videos stored in MongoDB Atlas
 ![Screenshot 2024-05-24 163620](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/8494ab68-1348-46af-be67-7a5693220b27)
 
+### Search Video API (query: semi-final)
+![Screenshot 2024-05-24 163917](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/0075df13-b6fd-415e-aa36-cc7f18fa8e63)
+
 ### SORTED BY EARLIEST
 ![Screenshot 2024-05-24 162319](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/f5e3232d-7671-4cf9-8cbd-62fe5e25f09e)
 
