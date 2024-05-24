@@ -20,6 +20,9 @@ This project fetches the latest YouTube videos for a given search query and prov
 ### DOCKER DESKTOP: (Server log shows API Key switching due to exhausted quota)
 ![Screenshot 2024-05-24 163042](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/9ce71466-2954-4bb5-8668-c4db292d3ef6)
 
+### Videos stored in MongoDB Atlas
+![Screenshot 2024-05-24 163620](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/8494ab68-1348-46af-be67-7a5693220b27)
+
 ### SORTED BY EARLIEST
 ![Screenshot 2024-05-24 162319](https://github.com/mandar-rane/ezpedal-assignment/assets/98955924/f5e3232d-7671-4cf9-8cbd-62fe5e25f09e)
 
