@@ -2,8 +2,9 @@
 
 This project fetches the latest YouTube videos for a given search query and provides an API to retrieve the stored videos.
 
-## Features
 
+## Features
+- Predefined Query: Cricket
 - Fetch latest YouTube videos and store in MongoDB
 - Paginated API to retrieve stored videos
 - Search API for videos by title and description
