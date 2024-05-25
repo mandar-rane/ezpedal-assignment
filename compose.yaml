@@ -13,8 +13,8 @@ services:
       context: .
     environment:
       NODE_ENV: production
-      MONGODB_URI: mongodb+srv://mandar123rane:ra0cMST7u844zY34@ezpedal.nvz9s3o.mongodb.net/?retryWrites=true&w=majority&appName=ezpedal
-      YOUTUBE_API_KEYS: AIzaSyCIcDhymC26ETi9ODnSviRKomShYFrFw9o,AIzaSyCIcDhymC26ETi9ODnSviRKomShYFrFw9o
+      MONGODB_URI: 
+      YOUTUBE_API_KEYS: 
       YOUTUBE_SEARCH_QUERY: cricket
     ports:
       - 3000:3000
